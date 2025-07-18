@@ -159,34 +159,7 @@ pnpm run dev
 pnpm run build
 ```
 
-### 📡 Deploy to Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm i -g vercel
 
-# Deploy
-vercel
-
-# Follow the prompts
-```
-
-### 🌊 Deploy to Netlify
-```bash
-# Build the project
-pnpm run build
-
-# Upload the dist folder to Netlify
-# Or connect your GitHub repo for automatic deployments
-```
-
-### 🐳 Docker Deployment
-```bash
-# Build Docker image
-docker build -t ai-image-generator .
-
-# Run container
-docker run -p 3000:3000 ai-image-generator
-```
 
 ## 📁 Project Structure
 
@@ -324,9 +297,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Author**: Pritam Awatade
-- **Email**: pritamawatade@gmail.com
+- **Email**: pritamawatade.work@gmail.com
 - **GitHub**: [@Pritamawatade](https://github.com/Pritamawatade)
-- **LinkedIn**: [Pritam Awatade](https://www.linkedin.com/in/pritamawatade)
+- **LinkedIn**: [Pritam Awatade](https://www.linkedin.com/in/pritam-awatade)
 
 ---
 
